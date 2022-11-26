@@ -1,0 +1,12 @@
+me\ialdo80\utils\command\Command.class
+me\ialdo80\Kill.class
+me\ialdo80\commands\FireResistanceCommand.class
+me\ialdo80\utils\file\FileConfig.class
+me\ialdo80\utils\command\BaseCommand.class
+me\ialdo80\utils\command\CommandArgs.class
+me\ialdo80\commands\SpeedCommand.class
+me\ialdo80\events\KillEvent.class
+me\ialdo80\utils\command\BukkitCommand.class
+me\ialdo80\utils\file\Config.class
+me\ialdo80\utils\chat\ChatUtil.class
+me\ialdo80\utils\command\CommandManager.class

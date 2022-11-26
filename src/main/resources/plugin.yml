@@ -1,0 +1,4 @@
+name: KillEffects
+version: '${project.version}'
+main: me.ialdo80.Kill
+author: iAldo80

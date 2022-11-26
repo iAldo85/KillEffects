@@ -1,0 +1,152 @@
+###########################
+#      KILL EFFECTS       #
+###########################
+
+
+
+SPEED-EFFECT:
+  MESSAGE: "&3You have been given &b&lspeed&3!"
+  ENABLED: true
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+RESISTANCE-EFFECT:
+  MESSAGE: "&3You have been given &7&lresistance&3!"
+  ENABLED: true
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+NIGHT-VISION-EFFECT:
+  MESSAGE: "&3You have been given &9&lnight vision&3!"
+  ENABLED: true
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+FIRE-RESISTANCE-EFFECT:
+  MESSAGE: "&3You have been given &6&lfire resistance&3!"
+  ENABLED: true
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+ABSORPTION-EFFECT:
+  MESSAGE: "&3You have been given &6&labsorption&3!"
+  ENABLED: true
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+BLINDNESS-EFFECT:
+  MESSAGE: "&3You have been given &4&lblindness&3!"
+  ENABLED: true
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+CONFUSION-EFFECT:
+  MESSAGE: "&3You have been given &2&lconfusion&3!"
+  ENABLED: true
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+FAST-DIGGING-EFFECT:
+  MESSAGE: "&3You have been given &b&lfast digging&3!"
+  ENABLED: true
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+GLOWING-EFFECT:
+  ENABLED: true
+  MESSAGE: "&3You have been given &e&lglowing&3!"
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+HEAL-EFFECT:
+  ENABLED: true
+  MESSAGE: "&3You have been given &a&lheal&3!"
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+HEALTH-BOOST-EFFECT:
+  ENABLED: true
+  MESSAGE: "&3You have been given &a&lhealth boost&3!"
+  LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+  TIME: 120 # IN SECONDS
+HUNGER-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &6&lhunger&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+INCREASE-DMG-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &c&lincrease damage&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+INVISIBILITY-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &7&linvisibility&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+JUMP-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &a&ljump&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+LEVITATION-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &f&llevitation&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+LUCK-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &6&lluck&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+POISON-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &2&lpoison&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+REGENERATION-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &a&lregeneration&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+SATURATION-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &6&lsaturation&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+SLOW-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &7&lslow&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+SLOW-DIGGING-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &7&lslow digging&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+UNLUCK-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &8&lunluck&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+WATER-BREATHING-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &b&lwater breathing&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+WEAKNESS-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &8&lweakness&3!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+WITHER-EFFECT:
+    ENABLED: true
+    MESSAGE: "&3You have been given &8&lwither!"
+    LEVEL: 1 # LEVELS 0 = 1, 1 = 2, 2 = 3, 3 = 4, 4 = 5
+    TIME: 120 # IN SECONDS
+
+
+###########################
+#        COMMANDS         #
+###########################
+
+SPEED-COMMAND:
+  ENABLED: true
+  MESSAGE: "&3You have been given &b&lSpeed&3!"
+  LEVEL: 2
+  TIME: 120 # IN SECONDS
+FIRERESISTANCE-COMMAND:
+  ENABLED: true
+  MESSAGE: "&3You have been given &c&lFire Resistance&3!"
+  LEVEL: 1
+  TIME: 120 # IN SECONDS
